@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "58832140334",
+    "firebase_url": "https://soul-dev.firebaseio.com",
+    "project_id": "soul-dev",
+    "storage_bucket": "soul-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58832140334:android:768ac310b696ca7d6047bf",
+        "android_client_info": {
+          "package_name": "com.SoULTest.SoUL"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58832140334-gcoi1k6aj021taf8sqec5rrg63vu95gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpVks41GkabLyKiuHoar31UVpfho9yzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58832140334-gcoi1k6aj021taf8sqec5rrg63vu95gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
