@@ -1,4 +1,4 @@
-# souc
+# SoUL
 
 A new Flutter project.
 
